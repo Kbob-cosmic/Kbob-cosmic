@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Kbob-cosmic
+- 👀 I’m interested in music, coding, and smoking weed.
+- 🌱 I’m currently learning C/C++, HTML, CSS, JS, Python, and Assembly.
+- 📫 How to reach me, my instagram is @bored_inst
